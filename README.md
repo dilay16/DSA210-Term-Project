@@ -15,3 +15,20 @@ The analysis includes:
 Findings:
 - A strong negative correlation was found between AI usage and productivity.
 - AI usage differs significantly between quantitative and qualitative courses.
+
+DSA210 Milestone 2 - Applying Machine Learning Methods
+
+This milestone applies supervised machine learning methods to further analyze the relationship between AI usage and academic performance.
+
+The analysis includes:
+
+- Regression models (Linear Regression, Decision Tree, KNN)
+- Classification models (Logistic Regression, Decision Tree, KNN)
+- Model evaluation using metrics such as MAE, RMSE, R², accuracy, precision, recall, and F1-score
+
+Findings:
+
+- Regression models achieved relatively high R² scores, indicating good predictive performance on the dataset.
+- AI usage alone is not a strong predictor of academic performance, and other features also play an important role.
+- Classification models achieved moderate accuracy in predicting high productivity.
+- The results should be interpreted cautiously due to the relatively small and self-collected dataset.
