@@ -1,6 +1,7 @@
 # DSA210-Term-Project
 Dilay Arkın Term Project 
 
+
 DSA210 Milestone 1 - AI Usage and Academic Performance
 
 This project analyzes the relationship between AI usage and academic productivity.
@@ -15,6 +16,7 @@ The analysis includes:
 Findings:
 - A strong negative correlation was found between AI usage and productivity.
 - AI usage differs significantly between quantitative and qualitative courses.
+
 
 DSA210 Milestone 2 - Applying Machine Learning Methods
 
@@ -32,3 +34,22 @@ Findings:
 - AI usage alone is not a strong predictor of academic performance, and other features also play an important role.
 - Classification models achieved moderate accuracy in predicting high productivity.
 - The results should be interpreted cautiously due to the relatively small and self-collected dataset.
+
+
+DSA210 Milestone 3 - Final Submission
+
+This final submission combines exploratory data analysis, hypothesis testing, and supervised machine learning methods to investigate the relationship between AI usage and academic performance.
+
+Main Findings:
+- AI usage patterns differ between quantitative and qualitative courses.
+- AI usage alone is not a sufficient predictor of academic performance.
+- Regression models achieved relatively high R² scores on the dataset.
+- Classification models achieved moderate accuracy in predicting high productivity.
+- Due to the relatively small and self-collected dataset, the findings should be interpreted cautiously.
+
+Repository Contents:
+- Milestone 1 notebook
+- Milestone 2 notebook
+- Final report
+- Dataset
+- Requirements file
